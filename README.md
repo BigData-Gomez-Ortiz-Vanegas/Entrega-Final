@@ -1,24 +1,19 @@
 # Entrega final - Gómez, Ortiz & Vanegas
-## Project Introduction: Predicting Income
+## Introducción al ejercicio: Prediciendo el peso al nacer en Colombia
 
-The general objective of this project is to construct a predictive model of household poverty using the data of Colombia. 
+El objetivo general es construir un modelo predictivo del peso al nacer usando los datos de las Estadísticas Vitales (DANE) de Colombia. 
 
-## General Requirements
+## Requerimientos generales
 [![R 4.2.0](https://img.shields.io/badge/R_Project-4.2.0-blue?logo=R)](https://www.r-project.org/)
 
-## :books: Repository Structure
+## :books: Estructura del repositorio
 
-The repository contains four folders, each of which is described below:
+El repositorio tiene cuatro carpetas, cada una se describe a continuación:
 
-- `document`: contains the instructions and the final document in `pdf` format.
-- `stores` : contains the final data set used.
-- `scripts`: contains all scripts.
-- `views`: contains all the graphs.
-
-
-## :mag_right: Instructions
-
-The repository's code is contained in a notebook stored in the 'scripts' folder and the final dataset is in the 'stores' folder. The final pdf document and instructions can be found in the 'document' folder, while the 'views' folder stores all the graphs presented in the final document. 
+- `document`: contiene el documento final en formato pdf.
+- `stores` : contiene las bases de datos usadas.
+- `scripts`: contiene los 'scripts' construidos.
+- `views`: contiene las visualizaciones del ejercicio.
 
 ## :mortar_board: Authors
 
